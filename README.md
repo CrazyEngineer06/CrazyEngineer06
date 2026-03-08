@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - 🔭 I’m currently working on React-based web projects and improving my Data Structures & Algorithms skills.<br>- 🌱 I’m currently learning System Design, Low-Level Programming (Assembly), and exploring AI/LLM development.<br>- 👯 I’m looking to collaborate on open-source projects related to Web Development, Java, and AI tools.<br>- 🤔 I’m looking for help with optimizing algorithms, building scalable applications, and contributing to large open-source projects.<br>- 💬 Ask me about Java, DSA, React, SQL, and problem-solving on LeetCode.<br>- 📫 How to reach me: Connect with me on LinkedIn or open an issue in my repositories.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I enjoy solving challenging coding problems and turning ideas into real projects.
 
 
